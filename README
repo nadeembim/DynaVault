@@ -1,1 +1,67 @@
-# DynaVault
+# DynaVault 2.0 
+
+<div align="center">
+  <img src="assets/icon.png" alt="DynaVault Logo" width="120" height="120">
+  
+  **🚀 Modern Desktop Application for Dynamo Script Management**
+
+## 📋 Overview
+
+DynaVault is a powerful desktop application specifically designed for BIM professionals to organize, manage, and collaborate on Dynamo scripts efficiently. It provides an intuitive interface for managing your entire Dynamo script library with advanced features for teams and individual users.
+
+## ✨ Features
+
+### 🗂️ **Smart Organization**
+- **Project-based categorization** - Organize scripts by specific projects
+- **Discipline grouping** - Sort by Structural, MEP, Architecture, etc.
+- **Workflow management** - Group by design phases and processes
+- **Team collaboration** - Share and manage scripts across teams
+- **Custom categories** - Create your own organizational structure
+
+### 📋 **Version History & Control**
+- **Complete change tracking** - Never lose a version of your work
+- **Visual diff comparison** - See exactly what changed between versions
+- **Rollback capability** - Restore previous versions instantly
+- **Automated backups** - Continuous protection of your scripts
+- **Change annotations** - Add notes to track modification reasons
+
+### 📁 **Beautiful File Explorer**
+- **Modern, intuitive interface** - Clean and professional design
+- **Advanced search & filtering** - Find scripts instantly
+- **Preview capabilities** - Quick script overview without opening
+- **Thumbnail generation** - Visual script previews
+- **Metadata management** - Rich information storage
+
+### ⚡ **Bulk Operations**
+- **Multi-select actions** - Work with multiple scripts simultaneously  
+- **Batch organize** - Move, copy, or categorize multiple files
+- **Mass operations** - Delete, archive, or export in bulk
+- **Drag & drop support** - Intuitive file management
+- **Progress tracking** - Monitor long-running operations
+
+### 👥 **Team Collaboration**
+- **Script sharing** - Easy distribution to team members
+- **Access controls** - Manage who can view or edit scripts
+- **Team libraries** - Centralized script repositories
+- **Usage analytics** - Track script popularity and usage
+
+## 🚀 Quick Start
+
+### Prerequisites
+- **Windows 10/11** (64-bit)
+- **Autodesk Dynamo** (2.0 or later)
+- **Autodesk Revit** (2020 or later) - Optional but recommended
+
+### Installation
+
+1. **Download** the latest release from [Releases](https://github.com/username/dynavault/releases)
+2. **Run** `DynaVault-2.0-Setup.exe`
+3. **Follow** the installation wizard
+4. **Launch** DynaVault from your desktop or start menu
+
+### First-Time Setup
+
+1. **Welcome Screen** - Choose your workspace location
+2. **Import Scripts** - Add existing Dynamo scripts to your library
+3. **Create Categories** - Set up your organizational structure
+4. **Configure Settings** - Customize the application to your needs
