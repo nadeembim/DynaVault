@@ -51,8 +51,8 @@ DynaVault is a powerful desktop application specifically designed for BIM profes
 
 ### Installation
 
-1. **Download** the latest release from [Releases](https://github.com/username/dynavault/releases)
-2. **Run** `DynaVault-2.0-Setup.exe`
+1. **Download** the latest release
+2. **Run** `DynaVault-2.0-Setup.msi`
 3. **Follow** the installation wizard
 4. **Launch** DynaVault from your desktop or start menu
 
